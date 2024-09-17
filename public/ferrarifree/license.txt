@@ -1,0 +1,11 @@
+Model Information:
+* title:	La Ferrari[Free]
+* source:	https://sketchfab.com/3d-models/la-ferrarifree-9ace219fdd8a4373b09162a0f2907dd3
+* author:	M Sameer (https://sketchfab.com/mughulsameer1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "La Ferrari[Free]" (https://sketchfab.com/3d-models/la-ferrarifree-9ace219fdd8a4373b09162a0f2907dd3) by M Sameer (https://sketchfab.com/mughulsameer1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
